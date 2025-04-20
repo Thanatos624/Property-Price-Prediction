@@ -1,0 +1,9 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings (optional, if you're using VS Code)
+.vscode/
